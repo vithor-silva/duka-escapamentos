@@ -237,7 +237,11 @@ select:focus {
 #itensCarrinho {
   text-align: left;
   font-size: 20px;
+  list-style: none;
+  padding: 10px;
 }
+
+
 
 #contato {
   text-align: center;
